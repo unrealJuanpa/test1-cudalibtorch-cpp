@@ -1,6 +1,6 @@
 # Proyecto CUDA + LibTorch + C++
 
-Este proyecto consta de una prueba de funcionamiento de LibTorch con soporte para CUDA escrito en C++.
+Este proyecto consta de una prueba de funcionamiento de LibTorch en C++ con soporte para CUDA.
 
 ## Requisitos
 
