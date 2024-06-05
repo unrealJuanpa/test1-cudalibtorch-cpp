@@ -11,4 +11,4 @@ Este proyecto consta de una prueba de funcionamiento de LibTorch con soporte par
 ## Especificaciones de GPU utilizada
 
 - **GPU**: RTX 3060 6GB Mobile
-- **GPU Type**: Ampere
+- **GPU Architecture**: Ampere
